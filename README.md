@@ -1,5 +1,5 @@
 # Boilerplate Webpack JS
-After installing you site should look like this => [Boilerplate Webpack JS](https://abhaypai.github.io/boilerplate-webpack-js)
+After installing you site should look like this => [Boilerplate Webpack JS](https://abhaypai.github.io/boilerplate-webpack-js/)
 
 Created a Boilerplate for compiling JS using `node.js` and `webpack`
 
