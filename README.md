@@ -17,7 +17,6 @@ Frontend Handler
 * Frontend [packages dependent on the nodejs]
 * Run `npm install` to install all dependent packages
 * Run `npm run dev` to watch the frontend files and `npm run build` to build the frontend files.
-* Backend [packages dependent on the composer]
 
 ## Frontend Built With
 * [Node.js](https://nodejs.org/)
